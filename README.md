@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Hello. I am Fade Rosyad, that work as Devops and Cloud Infrastructure Engineer at Jakarta
+Hello. My name is Fade Rosyad, and I work as a Devops and Cloud Infrastructure Engineer in Jakarta.
 
-### Working with 💻
+### I'm Working with 💻
 <p align='center'>
   <img  alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img  alt="shell" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
@@ -20,7 +20,7 @@ Hello. I am Fade Rosyad, that work as Devops and Cloud Infrastructure Engineer a
 </p>
 <br>
 
-### Stats 📈
+### My Stats 📈
 <p align='center'>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faderosyad" />
 </p>
@@ -33,5 +33,8 @@ Hello. I am Fade Rosyad, that work as Devops and Cloud Infrastructure Engineer a
   </a>
   <a href='https://medium.com/@faderosyad'>
     <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href='https://twitter.com/faderosyad'>
+    <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
