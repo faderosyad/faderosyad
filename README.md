@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Fade Rosyad
 
-DevOps & Cloud Infrastructure Engineer based in Jakarta.
+DevOps & Cloud Infrastructure Engineer based in Jakarta. Mostly focusing on CI/CD and IaC
+
+Have experience for about 4 years and currently set on break to improve skill and knowledge
 
 
 ## 🛠️ Tech Stack
